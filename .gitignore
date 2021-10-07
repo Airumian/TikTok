@@ -1,0 +1,169 @@
+
+Pods/BMPlayer/LICENSE
+Pods/BMPlayer/README.md
+Pods/BMPlayer/Source/BMPlayer.swift
+Pods/BMPlayer/Source/BMPlayerClearityChooseButton.swift
+Pods/BMPlayer/Source/BMPlayerControlView.swift
+Pods/BMPlayer/Source/BMPlayerItem.swift
+Pods/BMPlayer/Source/BMPlayerLayerView.swift
+Pods/BMPlayer/Source/BMPlayerProtocols.swift
+Pods/BMPlayer/Source/BMSubtitles.swift
+Pods/BMPlayer/Source/BMTimeSlider.swift
+Pods/BMPlayer/Source/Default/BMPlayerManager.swift
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_169.imageset/BMPlayer_169@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_169.imageset/BMPlayer_169@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_169.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_43.imageset/BMPlayer_43@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_43.imageset/BMPlayer_43@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_43.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_back.imageset/BMPlayer_back@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_back.imageset/BMPlayer_back@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_back.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_fullscreen.imageset/BMPlayer_fullscreen@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_fullscreen.imageset/BMPlayer_fullscreen@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_fullscreen.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_mask_image.imageset/BMPlayer_mask_image@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_mask_image.imageset/BMPlayer_mask_image@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_mask_image.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_pause.imageset/BMPlayer_pause@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_pause.imageset/BMPlayer_pause@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_pause.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_play.imageset/BMPlayer_play@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_play.imageset/BMPlayer_play@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_play.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_portialscreen.imageset/BMPlayer_portialscreen@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_portialscreen.imageset/BMPlayer_portialscreen@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_portialscreen.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_ratio.imageset/BMPlayer_ratio@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_ratio.imageset/BMPlayer_ratio@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_ratio.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_replay.imageset/BMPlayer_replay@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_replay.imageset/BMPlayer_replay@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_replay.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_seek_to_image.imageset/BMPlayer_seek_to_image@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_seek_to_image.imageset/BMPlayer_seek_to_image@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_seek_to_image.imageset/Contents.json
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_slider_thumb.imageset/BMPlayer_slider_thumb@2x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_slider_thumb.imageset/BMPlayer_slider_thumb@3x.png
+Pods/BMPlayer/Source/Pod_Asset_BMPlayer.xcassets/Pod_Asset_BMPlayer_slider_thumb.imageset/Contents.json
+Pods/Manifest.lock
+Pods/NVActivityIndicatorView/LICENSE
+Pods/NVActivityIndicatorView/README.md
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationAudioEqualizer.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallBeat.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallClipRotate.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallClipRotateMultiple.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallClipRotatePulse.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallDoubleBounce.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallGridBeat.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallGridPulse.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallPulse.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallPulseRise.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallPulseSync.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallRotate.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallRotateChase.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScale.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScaleMultiple.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScaleRipple.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScaleRippleMultiple.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallSpinFadeLoader.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallTrianglePath.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallZigZag.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallZigZagDeflect.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBlank.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationCircleStrokeSpin.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationCubeTransition.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScale.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScaleParty.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScalePulseOut.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScalePulseOutRapid.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineSpinFadeLoader.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationOrbit.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationPacman.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationSemiCircleSpin.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationSquareSpin.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationTriangleSkewSpin.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/NVActivityIndicatorAnimationDelegate.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/NVActivityIndicatorShape.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/NVActivityIndicatorView.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Presenter/NVActivityIndicatorPresenter.swift
+Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Presenter/NVActivityIndicatorViewable.swift
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/airumyan.xcuserdatad/xcschemes/BMPlayer.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/airumyan.xcuserdatad/xcschemes/NVActivityIndicatorView.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/airumyan.xcuserdatad/xcschemes/Pods-CloneTikTok.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/airumyan.xcuserdatad/xcschemes/SnapKit.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/airumyan.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/SnapKit/LICENSE
+Pods/SnapKit/README.md
+Pods/SnapKit/Source/Constraint.swift
+Pods/SnapKit/Source/ConstraintAttributes.swift
+Pods/SnapKit/Source/ConstraintConfig.swift
+Pods/SnapKit/Source/ConstraintConstantTarget.swift
+Pods/SnapKit/Source/ConstraintDescription.swift
+Pods/SnapKit/Source/ConstraintDirectionalInsets.swift
+Pods/SnapKit/Source/ConstraintDirectionalInsetTarget.swift
+Pods/SnapKit/Source/ConstraintDSL.swift
+Pods/SnapKit/Source/ConstraintInsets.swift
+Pods/SnapKit/Source/ConstraintInsetTarget.swift
+Pods/SnapKit/Source/ConstraintItem.swift
+Pods/SnapKit/Source/ConstraintLayoutGuide+Extensions.swift
+Pods/SnapKit/Source/ConstraintLayoutGuide.swift
+Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift
+Pods/SnapKit/Source/ConstraintLayoutSupport.swift
+Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift
+Pods/SnapKit/Source/ConstraintMaker.swift
+Pods/SnapKit/Source/ConstraintMakerEditable.swift
+Pods/SnapKit/Source/ConstraintMakerExtendable.swift
+Pods/SnapKit/Source/ConstraintMakerFinalizable.swift
+Pods/SnapKit/Source/ConstraintMakerPriortizable.swift
+Pods/SnapKit/Source/ConstraintMakerRelatable.swift
+Pods/SnapKit/Source/ConstraintMultiplierTarget.swift
+Pods/SnapKit/Source/ConstraintOffsetTarget.swift
+Pods/SnapKit/Source/ConstraintPriority.swift
+Pods/SnapKit/Source/ConstraintPriorityTarget.swift
+Pods/SnapKit/Source/ConstraintRelatableTarget.swift
+Pods/SnapKit/Source/ConstraintRelation.swift
+Pods/SnapKit/Source/ConstraintView+Extensions.swift
+Pods/SnapKit/Source/ConstraintView.swift
+Pods/SnapKit/Source/ConstraintViewDSL.swift
+Pods/SnapKit/Source/Debugging.swift
+Pods/SnapKit/Source/LayoutConstraint.swift
+Pods/SnapKit/Source/LayoutConstraintItem.swift
+Pods/SnapKit/Source/Typealiases.swift
+Pods/SnapKit/Source/UILayoutSupport+Extensions.swift
+Pods/Target Support Files/BMPlayer/BMPlayer-dummy.m
+Pods/Target Support Files/BMPlayer/BMPlayer-Info.plist
+Pods/Target Support Files/BMPlayer/BMPlayer-prefix.pch
+Pods/Target Support Files/BMPlayer/BMPlayer-umbrella.h
+Pods/Target Support Files/BMPlayer/BMPlayer.debug.xcconfig
+Pods/Target Support Files/BMPlayer/BMPlayer.modulemap
+Pods/Target Support Files/BMPlayer/BMPlayer.release.xcconfig
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView-dummy.m
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView-Info.plist
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView-prefix.pch
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView-umbrella.h
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView.debug.xcconfig
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView.modulemap
+Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView.release.xcconfig
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-acknowledgements.markdown
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-acknowledgements.plist
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-dummy.m
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-frameworks.sh
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-Info.plist
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok-umbrella.h
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok.debug.xcconfig
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok.modulemap
+Pods/Target Support Files/Pods-CloneTikTok/Pods-CloneTikTok.release.xcconfig
+Pods/Target Support Files/SnapKit/SnapKit-dummy.m
+Pods/Target Support Files/SnapKit/SnapKit-Info.plist
+Pods/Target Support Files/SnapKit/SnapKit-prefix.pch
+Pods/Target Support Files/SnapKit/SnapKit-umbrella.h
+Pods/Target Support Files/SnapKit/SnapKit.debug.xcconfig
+Pods/Target Support Files/SnapKit/SnapKit.modulemap
+Pods/Target Support Files/SnapKit/SnapKit.release.xcconfig
